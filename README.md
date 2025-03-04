@@ -1,7 +1,9 @@
 ## Hi there 👋
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hnnthecore&exclude_repo=AltaCV,CV&layout=compact)
+
 <!--
-**hnnthecore/hnnthecore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**thisisalicee/thisisalicee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
