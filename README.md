@@ -60,7 +60,6 @@
 </p>
 
 > ✅ **Proof available on request** via GitHub Discussions / LinkedIn.  
-> *(No external links exposing my real name: privacy-first.)*
 
 ## ✨ Featured projects
 <!-- Update repo names if needed, or remove the whole section -->
