@@ -47,7 +47,7 @@
 
 ## 🧰 Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,wireshark,bash,powershell,python,docker,ansible&perline=12" />
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,bash,powershell,python,docker,ansible&perline=12" />
 </div>
 
 ## 🏅 Certifications
