@@ -10,21 +10,21 @@ Istruzioni rapide:
 
 <div align="center">
 
-# 👋 Ciao, sono **YOUR_NAME**
+# 👋 Ciao, sono **HNNTHECORE**
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=800&center=true&vCenter=true&width=700&lines=Ciao%2C+sono+YOUR_NAME;IT+Support+%26+Cybersecurity+Enthusiast;Basato+in+Svizzera+%F0%9F%87%A8%F0%9F%87%AD" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=800&center=true&vCenter=true&width=700&lines=Ciao%2C+sono+HNNTHECORE;IT+Support+%26+Cybersecurity+Enthusiast;Basato+in+Svizzera+%F0%9F%87%A8%F0%9F%87%AD" alt="Typing intro" />
 
 <!-- Link rapidi -->
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_HANDLE/">
+<a href="https://www.linkedin.com/in/hnnthecore/">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-YOUR_LINKEDIN_HANDLE-0077B5?logo=linkedin&logoColor=white">
 </a>
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:rapa.n@live.it">
   <img alt="Email" src="https://img.shields.io/badge/Email-YOUR_EMAIL-D14836?logo=gmail&logoColor=white">
 </a>
-<a href="https://YOUR_PORTFOLIO_URL">
+<a href="https://hannythecore.ch/">
   <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-111?logo=vercel&logoColor=white">
 </a>
-<a href="https://YOUR_CV_URL">
+<a href="https://github.com/hnnthecore/cv-latex/blob/main/Lebenslauf_Gurdeep_Kumar.pdf">
   <img alt="CV" src="https://img.shields.io/badge/CV-PDF-0A66C2?logo=adobeacrobatreader&logoColor=white">
 </a>
 
