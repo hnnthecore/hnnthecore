@@ -1,7 +1,8 @@
 <div align="center">
   <!-- HEADER: gradient wave -->
+<div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=HANNYTHECORE&fontSize=70&fontAlignY=40&animation=twinkling&section=header"
+    src="https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&text=HANNYTHECORE&fontSize=70&fontAlignY=40&animation=twinkling&section=header"
     alt="HANNYTHECORE header"
   />
 </div>
@@ -98,9 +99,8 @@
 - Reach out via **GitHub Discussions** or **LinkedIn**.
 
 <div align="center">
-  <!-- FOOTER: gradient wave -->
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&section=footer"
+    src="https://capsule-render.vercel.app/api?type=waving&height=180&color=timeGradient&section=footer"
     alt="Footer wave"
   />
 </div>
