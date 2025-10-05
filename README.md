@@ -87,7 +87,7 @@
 
 <!-- Snake (needs GitHub Actions: Platane/snk) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hnnthecore/hnnthecore/output/snake.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/hnnthecore/blob/main/assets/snake.svg" alt="Snake animation"/>
 </p>
 
 ---
