@@ -1,0 +1,22 @@
+name: Update snake in main
+on:
+  schedule:
+    - cron: "0 0 * * *"   # ogni notte (UTC)
+  workflow_dispatch:       # per avviarlo subito a mano
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate SVG in assets/
+        uses: Platane/snk@v3
+        with:
+          github_user_name: hnnthecore
+          outputs: assets/snake.svg
+      - name: Commit updated snake.svg
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update snake.svg"
+          file_pattern: assets/snake.svg
