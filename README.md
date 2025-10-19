@@ -42,9 +42,9 @@
 ---
 
 ## 🚀 At a glance
-- 🛠️ Networking (CCNA), cybersecurity (Security+, CEH), AD hardening, light automation.
-- 🔎 Focus: OS troubleshooting, IPv4/IPv6, VLAN/ACL/NAT, traffic analysis (Wireshark).
-- 🧪 Home Lab: pfSense, Wazuh, honeypot, AD lab.
+ 🛠️ Networking (CCNA), cybersecurity (Security+, CEH), AD hardening, light automation.
+ 🔎 Focus: OS troubleshooting, IPv4/IPv6, VLAN/ACL/NAT, traffic analysis (Wireshark).
+ 🧪 Home Lab: pfSense, Wazuh, honeypot, AD lab.
 
 ## 🧰 Stack
 <div align="center">
@@ -94,9 +94,9 @@
 ---
 
 ### 🔐 Privacy note
-- No email, no real name on this page.  
-- No badge/credential links that reveal identity: icons only.  
-- Reach out via **GitHub Discussions** or **LinkedIn**.
+ No email, no real name on this page.  
+ No badge/credential links that reveal identity: icons only.  
+ Reach out via **GitHub Discussions** or **LinkedIn**.
 
 <div align="center">
   <img
